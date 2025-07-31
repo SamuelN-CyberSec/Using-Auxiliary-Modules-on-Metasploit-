@@ -5,7 +5,7 @@ Objective
 -Checklist of  strategies against Auxiliary Modules scan 
 - Start Metasploit
 - Set target  host for Auxiliary Modules scan
-- Perform Auxiliary Modulesscan for TCP
+- Perform Auxiliary Modules scan for TCP
 - Perform Auxiliary Module scan for FTP version
 
 
